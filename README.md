@@ -11,3 +11,5 @@
 [Instruction Tuning](instruction-tuning.ipynb)
 
 [Conversation Fine-Tuning](fine-tune-chat-template.ipynb)
+
+[Full Training of a Small Model](fine-tune-small-model.ipynb)
